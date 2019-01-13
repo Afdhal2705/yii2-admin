@@ -1,6 +1,6 @@
 Yii2 Admin
 ===============
-Simple RBAC Manager for Yii 2.0. Modified of [yii2-admin](https://github.com/dickyermawan/yii2-admin)
+Simple RBAC Manager for Yii 2.0. Modified of [yii2-mimin](https://github.com/hscstudio/yii2-mimin)
 
 Note: This extension is modified according to my needs
 
