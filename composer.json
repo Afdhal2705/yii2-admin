@@ -1,0 +1,22 @@
+{
+    "name": "dickyermawan/yii2-admin",
+    "description": "Yii2 Simple RBAC",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","admin","user","rbac","simple-rbac"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dicky Ermawan S",
+            "email": "wanasaja@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0",
+        "kartik-v/yii2-widgets": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "dickyermawan\\admin\\": ""
+        }
+    }
+}
