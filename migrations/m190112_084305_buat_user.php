@@ -39,7 +39,9 @@ class m190112_084305_buat_user extends Migration
         $this->insert('{{%user}}', [
             'username' => 'admin',
             'password_hash' => '$2y$13$Lki8Uf2ZCj4vQzTEhjLFLe7LqzDArvxB4Ogx4c3F8JeF4oBtqR14y',
-            'email' => 'admin@gmail.com'
+            'email' => 'admin@gmail.com',
+            'created_at' => 1547363105,
+            'updated_at' => 1547363105
         ]);
 
     }
