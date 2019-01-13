@@ -76,6 +76,10 @@ You should migrate :
 
 ```yii migrate --migrationPath=@dickyermawan/admin/migrations```
 
+And the last one :
+
+Copy User.php in "Extras" folder to your app models.
+
 
 Info Login
 -----
